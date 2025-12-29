@@ -7,7 +7,7 @@ AutoEcole is a comprehensive car rental management platform developed as a full-
 ## Author
 
 **Fahchouch Mohammed**
-**Anas lez3er**
+**Anas lezaar**
 
 ## Technical Architecture
 
